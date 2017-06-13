@@ -6,3 +6,4 @@ update first
 upodate second
 hahahahahahaha
 sync to github
+https sync github
